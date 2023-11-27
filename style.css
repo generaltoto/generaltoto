@@ -1,0 +1,32 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Barlow', sans-serif;
+  font-weight: 800;
+}
+
+section {
+  margin: 3rem 0;
+}
+
+p {
+  font-family: 'Barlow', sans-serif;
+  font-weight: 300;
+  font-size: medium;
+}
+
+.table {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contact {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+
+.contact-item {
+  margin-right: 1rem;
+}
+
