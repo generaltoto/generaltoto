@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=generaltoto&show_icons=true&theme=transparent)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lum0o&show_icons=true&theme=gotham" alt="highcontrast" /> </p>
 
 <!--
 **generaltoto/generaltoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
