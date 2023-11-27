@@ -5,8 +5,42 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,900;1,900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css">
+
 </header>
+
+<style>
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Barlow', sans-serif;
+  font-weight: 800;
+}
+
+section {
+  margin: 3rem 0;
+}
+
+p {
+  font-family: 'Barlow', sans-serif;
+  font-weight: 300;
+  font-size: medium;
+}
+
+.table {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contact {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+
+.contact-item {
+  margin-right: 1rem;
+}
+</style>
 
 <body>
 <!-- Title -->
